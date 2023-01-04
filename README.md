@@ -1,1 +1,1 @@
-Disease Prediction Model using Support Vector Machine Algorithm.
+Disease Prediction Model using Support Vector Machine.
